@@ -1,2 +1,4 @@
 # TableauProject
 UK Fire &amp; Rescue Incident Analysis (SQL + Tableau)
+This project analyzes UK Fire & Rescue Service incident data from 2010-2024 to understand how emergency response performance differs between urban and rural areas. Using SQL, I cleaned, filtered, and aggregated the data to prepare key metrics such as incident counts, response times, call handling durations, and geographic classifications. These SQL outputs were then imported into Tableau, where I built interactive dashboards to visualize trends, compare regions, and test the hypothesis that urban areas experience both higher incident volume and longer response times than rural areas.
+The file Final_Project.pdf included in this repository contains all SQL queries, intermediate analytical steps, and the final Tableau visualizations used in the project.
